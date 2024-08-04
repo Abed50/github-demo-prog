@@ -1,2 +1,7 @@
+def square(x):
+    return x * x 
 
-print("Hello World")
+squared = square(3)
+
+print(squared)
+
