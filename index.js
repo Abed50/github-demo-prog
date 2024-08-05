@@ -6,3 +6,4 @@ const squaredNumber = square(3);
 
 console.log(squaredNumber(3); 
 
+// Add comment 
