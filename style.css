@@ -8,4 +8,9 @@
 body {
 	font-style:'sans-serif';
 	color:#32ee40;
+
+}
+h1 {
+	font-size:18px;
+	color:red;
 }
