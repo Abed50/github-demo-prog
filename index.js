@@ -17,4 +17,7 @@ class Animal {
 
 const arr = [1, 2, 3];
 
+
 arr.forEach(ar => console.log(ar));
+
+//Add comment
